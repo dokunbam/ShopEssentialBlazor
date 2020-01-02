@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\bin\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.deps.json
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\bin\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.dll
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\bin\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.pdb
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\obj\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\obj\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\obj\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.dll
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\obj\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.pdb
+C:\Users\DELL\Desktop\TestEssentialShopFolder\New Project\EssentialShopCore\EssentialShopCoreBlazor\Shared\obj\Debug\netstandard2.1\EssentialShopCoreBlazor.Shared.csprojAssemblyReference.cache
